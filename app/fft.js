@@ -248,4 +248,3 @@ function convolveComplex(xreal, ximag, yreal, yimag, outreal, outimag) {
 var fft = (typeof exports === "undefined")?(function fft() {}):(exports);
 fft.transform = transform;
 
-
